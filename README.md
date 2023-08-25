@@ -1,5 +1,5 @@
 ## About me
 
-###### 📫 How to reach me: louisecchchan@gmail.com
+* 📫 How to reach me: louisecchchan@gmail.com
 
 ## Skills
