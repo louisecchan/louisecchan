@@ -1,6 +1,6 @@
 ## About me
 
-* 📫 Reach me at: louisecchchan@gmail.com
+* 📫 Say hello at: louisecchchan@gmail.com
 
 ## Skills
 
