@@ -1,6 +1,6 @@
 ## About me
 
-* 👋 Say hello at: louisecchchan@gmail.com
+👋 Say hello at: louisecchchan@gmail.com
 
 ## Tools I use
 
