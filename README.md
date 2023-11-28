@@ -1,4 +1,4 @@
-## About me
+## <img src="https://res.cloudinary.com/dlmgs0z2s/image/upload/v1701203694/cat_f59hcc.gif" width="40px"> About me
 
 👋 Say hello at: louisecchchan@gmail.com
 
