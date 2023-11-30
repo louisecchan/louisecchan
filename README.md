@@ -2,7 +2,7 @@
 
 👋 Say hello at: louisecchchan@gmail.com <br />
 💻 Currently learning Vue.js  <br />
-📖 Always welcome a book rec on<a href="" target="_blank">Goodreads</a>
+📖 Always welcome a book rec on <a href="" target="_blank">Goodreads</a>
 
 ## Tools I use
 
