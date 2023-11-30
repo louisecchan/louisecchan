@@ -1,7 +1,7 @@
 ## <img src="https://res.cloudinary.com/dlmgs0z2s/image/upload/v1701203694/cat_f59hcc.gif" width="40px"> About me
 
-👋 Say hello at: louisecchchan@gmail.com
-💻 Currently learning Vue.js
+👋 Say hello at: louisecchchan@gmail.com <br />
+💻 Currently learning Vue.js  <br />
 📖 Always welcome a book rec <a href="" target="_blank">@goodread</a>
 
 ## Tools I use
