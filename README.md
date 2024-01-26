@@ -6,4 +6,4 @@
 
 ## Programming languages
 
-React, Javascript, CSS, HTML 
+React, JavaScript, CSS, HTML 
