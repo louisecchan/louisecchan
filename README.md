@@ -8,4 +8,4 @@
 
 React, JavaScript, CSS, HTML 
 
-https://www.codewars.com/users/louisecchan/badges/micro?theme=light
+<img src="https://www.codewars.com/users/louisecchan/badges/micro?theme=light">
