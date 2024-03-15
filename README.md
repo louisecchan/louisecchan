@@ -1,4 +1,4 @@
-## <img src="https://res.cloudinary.com/dlmgs0z2s/image/upload/v1701203694/cat_f59hcc.gif" width="40px"> About me
+## About me
 
 👋 Say hello at: louise.cch@gmail.com <br />
 💻 Currently learning Vue.js  <br />
