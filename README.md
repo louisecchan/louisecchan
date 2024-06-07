@@ -6,6 +6,7 @@
 
 ## Programming languages
 
-React, JavaScript, CSS, HTML 
-
-<img src="https://www.codewars.com/users/louisecchan/badges/micro?theme=light">
+React <br />
+JavaScript <br />
+CSS <br />
+HTML <br /> 
